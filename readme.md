@@ -1,1 +1,1 @@
-![CSS Landscape](css-landscape.png)
+![CSS Landscape](/Demo Image/css-landscape.png)
