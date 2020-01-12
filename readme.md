@@ -1,1 +1,1 @@
-![CSS Landscape](./Demo Image/css-landscape.png)
+![CSS Landscape](./Demo%20Image/css-landscape.png)
